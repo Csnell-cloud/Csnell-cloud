@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Connor I am a current CyberSecurity major at Wright State University.
 <!--
 **Csnell-cloud/Csnell-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
