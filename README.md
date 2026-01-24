@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Connor I am a current CyberSecurity major at Wright State University.
+My name is Connor Snell, I am a current Wright State University Cyber Security and Information Technology major. This semester the two projects I am working on is making a web application that can connect to a persons bank account and help budget, as well as working on upgrading my coding skills with unique problems suggested by instructors.
 <!--
 **Csnell-cloud/Csnell-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
